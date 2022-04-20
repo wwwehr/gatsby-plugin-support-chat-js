@@ -1,12 +1,12 @@
 {
-  "name": "gatsby-plugin-support-chat",
+  "name": "gatsby-plugin-support-chat-js",
   "version": "0.0.4",
   "main": "index.js",
   "license": "MIT",
   "description": "Adds a simple Slack-based support chat widget to your Gatsby site",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsby-inc/gatsby-plugin-support-chat.git"
+    "url": "https://github.com/wwwehr/gatsby-plugin-support-chat-js.git"
   },
   "keywords": [
     "gatsby",
